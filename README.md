@@ -64,13 +64,11 @@ obst_avoid.py--> obstacle avoidence with broken servo
 
 camera_surveillance.py --> Camera Surveillance
 
-Quick Links:
+### Quick Links:
 
  * [About PiCar-4WD](#about_this_module)
  * [Update](#update)
  * [About SunFounder](#about_sunfounder)
- * [License](#license)
- * [Contact us](#contact_us)
 
 <a id="about_this_module"></a>
 
